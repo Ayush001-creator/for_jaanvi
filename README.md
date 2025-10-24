@@ -1,4 +1,4 @@
-# Love-Letter-Website
+# love-letter-website
 
 Welcome to the repository of a heartfelt and beautifully designed static love letter website. This project aims to provide a personal and intimate way to express affection and love through a digital medium.
 
