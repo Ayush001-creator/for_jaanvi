@@ -2,7 +2,7 @@
 const CONFIG = {
 
   couple: {
-    name1: "Jaavi",
+    name1: "Jaanvi",
     name2: "Ayush",
     connector: "and",
     together: "Together Forever"
